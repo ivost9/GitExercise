@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "m1OyowqIVhaIFvKkRK6t40spFWD6ALjQREN6h+eqkObS9aERB8R6Y+m/qeAe/67kGWuCe0yecmwP8Fl23eQN1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\12e\\Desktop\\GitExercise\\GitExercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\12e\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\12e\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\12e\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\12e\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
